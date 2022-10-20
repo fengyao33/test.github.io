@@ -1,0 +1,1 @@
+import{d as s,n as _}from"./index.b71bdeda.js";const r=s("test",()=>({counter:0}));const o={__name:"test",setup(t){const e=r();return console.log(20,e),{__sfc:!0,store:e}}};var c=function(){var e=this,n=e._self._c;return e._self._setupProxy,n("div")},u=[],l=_(o,c,u,!1,null,"b13174c0",null,null);const f=l.exports;export{f as default};

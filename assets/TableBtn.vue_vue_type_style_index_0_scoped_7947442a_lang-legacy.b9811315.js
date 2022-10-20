@@ -1,0 +1,1 @@
+System.register([],(function(e,t){"use strict";var n=document.createElement("style");return n.innerHTML="button[data-v-7947442a]{margin:5px 0 0 5px}\n",document.head.appendChild(n),{execute:function(){}}}));
